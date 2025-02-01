@@ -1,4 +1,5 @@
 Calculadora em Python com Tkinter
+
 Este é um projeto de uma calculadora simples desenvolvida em Python utilizando a biblioteca Tkinter para a interface gráfica. A calculadora suporta operações básicas como adição, subtração, multiplicação e divisão.
 
 Funcionalidades
